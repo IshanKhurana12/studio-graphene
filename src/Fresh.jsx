@@ -2,7 +2,7 @@ import React from 'react'
 import actor from './assets/actor.png'
 import star from './assets/astar.png'
 import line2 from './assets/Line2.png'
-import star2 from './assets/star2.png'
+import star2 from './assets/Star2.png'
 const Fresh = () => {
   return (
     <div id='maindiv'>
