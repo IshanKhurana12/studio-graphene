@@ -1,0 +1,869 @@
+body{
+  max-width: 1440px;
+max-height: 749px;
+  background-color: black;
+
+}
+
+
+#headone{
+  font-family: Poppins;
+font-size: 40px;
+font-weight: 275;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: left;
+color:#FFFFFF;
+width: 176px;
+height: 60px;
+margin-top: 41px;
+margin-left: 90px;
+}
+
+
+
+#wishlist{
+font-style: bold;
+color: #FFFFFF;
+font-family: Work Sans,sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+width: 89px;
+height: 16px;
+margin-top: 70px;
+margin-left: 934px;
+}
+
+#bag{
+  font-style: bold;
+color: #FFFFFF;
+font-family: Work Sans,sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+width: 89px;
+height: 16px;
+margin-top: 70px;
+margin-left: 10px;
+}
+
+
+#line1{
+  width: 1260px;
+  height: 22px;
+  margin-top: -12px;
+  margin-left: 90px;
+}
+
+#home{
+width: 71px;
+height: 28px;
+margin-top: 115px;
+margin-left: 137px;
+}
+
+.typo{
+  font-family: Work Sans,sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+#about{
+  width: 70px;
+height: 28px;
+margin-top: 115px;
+margin-left: 126px
+}
+ul{
+  position: relative;
+  border: 1px solid #FFFFFF;
+  width: 300px;
+  padding: 0%;
+left: 100px;
+right:20px;
+}
+
+#products{
+
+height: 123px;
+margin-top: 115px;
+margin-left: 100px;
+width: 159px;
+text-decoration: underline;
+
+}
+
+#contact{
+  width: 118px;
+height: 28px;
+margin-top: 115px;
+margin-left: 116px;
+}
+
+
+#fresh{
+font-family: Syne,sans-serif;
+font-size: 135px;
+font-weight: 800;
+line-height: 103px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+margin-top:-150px;
+}
+
+#maindiv{
+  width: 689px;
+height: 151px;
+margin-top: 165px;
+margin-left: 115px;
+}
+
+
+#year{
+ 
+font-family: Syne,sans-serif;
+font-size: 135px;
+font-weight: 800;
+line-height: 103px;
+letter-spacing: 0em;
+text-align: left;
+color: transparent;
+-webkit-text-stroke: 2px white;
+width: 710px;
+height: 144px;
+margin-left: 300px;
+}
+
+#look{
+
+font-family: Syne;
+font-size: 135px;
+font-weight: 800;
+line-height: 103px;
+letter-spacing: 0em;
+text-align: left;
+color:#FFFFFF;
+width: 527px;
+height: 103px;
+margin-left: 100px;
+}
+
+
+#orange{
+  background-color: orange;
+  width: 993px;
+  overflow: hidden;
+  height: 354.3px;
+  top: 380.62px;
+  left: 447px;
+  opacity: 0.2px;
+  position: absolute;
+  z-index: -23;
+}
+
+#actor{
+position:absolute;
+  width: 432px;
+height: 654.95px;
+top: 133.05px;
+left: 899px;
+z-index: 100;
+}
+
+#star{
+  position: absolute;
+  width: 367px;
+height: 371.51px;
+top: 129px;
+left: 1010px;
+z-index: 2;
+
+}
+
+#line2{
+  position: absolute;
+  width: 976px;
+top: 695.51px;
+border: 1px;
+
+}
+
+#star2{
+  position: absolute;
+  width: 64px;
+height: 119.08px;
+top: 635.51px;
+left: 954px;
+z-index: 1000;
+}
+
+
+#see{
+  color: #FFFFFF;
+  width: 64px;
+  height: 89.08px;
+display: inline-block;
+white-space: nowrap;
+font-family: Work Sans;
+font-size: 18px;
+font-weight: 400;
+letter-spacing: 0em;
+text-align: left;
+padding: auto;
+margin-top:100px;
+  margin-left: 90px;
+  
+}
+
+#navbar{
+display: flex;
+flex-direction: row;
+}
+
+
+
+#lee{
+  color: #FFFFFF;
+  text-align: left; 
+}
+#productsd{
+  width: 200px;
+
+
+}
+
+
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  width: 150px;
+}
+
+
+
+
+
+#topnavbar{
+    height: 42px;
+     background: #1A1A1A;
+    display: flex;
+    white-space: nowrap;
+   width: 100%;
+   flex-direction: row;
+   flex-wrap: nowrap;
+}
+
+#mobiletruck{
+margin-top: 10px;
+margin-left: 20px;
+}
+
+#text1{
+  font-family: Poppins,sans-serif;
+font-size: 10px;
+font-weight: 400;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+color:  #626262;
+
+margin-top: 16px;
+margin-left: 5px
+
+}
+
+#text2{
+  font-family: Poppins;
+font-size: 10px;
+font-weight: 400;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+color: #626262;
+
+margin-top: 15px;
+margin-left: 90px
+
+}
+
+#icon{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+
+.navbar-toggler-icon {
+  color: black;       /* Set icon color to black */
+  width: 24px;        /* Set icon width to 24px */
+  background-color: black; /* Set background color to black */
+  border: none;       /* Remove any border (optional) */
+}
+.navbar-toggler {
+  background-color: black;
+  border: none;
+  padding: 0;
+  display: inline-block; 
+}
+.navbar-heading {
+  color:#FFFFFF;
+  
+  font-family: Poppins;
+font-size: 30px;
+font-weight: 275;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 21px;
+margin-left: 10px;
+
+
+}
+
+
+.collapse {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-black {
+  z-index: 1000000;
+  text-align: center;
+  background-color:black;
+  width: 100%;
+  
+}
+
+#linee{
+  width: 340px;
+  overflow-x: hidden;
+  position:absolute;
+  top: 110px;
+  left: 20px;
+  z-index: 1000000;
+}
+
+
+
+.bg-black h4 {
+  margin-top: 10px;
+  padding: 30px; 
+ 
+  font-family: Work Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  
+  
+}
+
+
+
+
+#mobileactor{
+  max-width: 100%;
+  height: auto;
+  margin-left: 50px;
+  object-fit: contain; 
+  overflow-x: hidden;
+  z-index: 10;
+}
+
+#mobilestar{
+  max-width: 50%;
+  position: absolute;
+  object-fit: contain; 
+overflow-x: hidden;
+top: 121px;
+left: 180px;
+z-index: -10;
+}
+
+#orange2{
+  
+    background-color: orange;
+    width: 100vw;
+    overflow: hidden;
+    height: 354.3px;
+    top: 350.62px;
+   
+    opacity: 0.2px;
+    position: absolute;
+    z-index: -23;
+  
+}
+
+
+#mobilehead{
+  font-family: Syne;
+font-size: 55px;
+font-weight: 800;
+line-height: 69px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+position: absolute;
+top: 420px;
+left: 15px;
+}
+#year2{
+  margin-left: 80px;
+  color: transparent;
+-webkit-text-stroke: 2px white;
+}
+#look2{
+  margin-left: 30px;
+}
+
+#l2{
+  position: absolute;
+  left: -500;
+  width: 150px;
+  overflow: hidden;
+  top: 650px;
+}
+
+#sr{
+  position: absolute;
+  left: 120px;
+  top: 620px;
+}
+
+
+
+
+#seemore{
+  font-family: Work Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+color:#FFFFFF;
+border:1px solid white;
+box-sizing: border-box;
+width: 110px;
+margin-left: 15px;
+position: absolute;
+top: 730px;
+}
+
+#product{
+  position: relative;
+ top: 380px;
+ height: 750px;
+width: 1440px;
+ background-color: #FFFFFF;
+}
+
+
+#np2{
+ position: absolute;
+font-family: Syne;
+font-size: 57px;
+font-weight: 600;
+line-height: 108px;
+letter-spacing: 0em;
+text-align: left;
+color:  #000000;
+margin-top: 50px;
+margin-left: 83px;
+}
+
+
+#category{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding-left: 90px;
+  padding-top: 140px;
+}
+#category div h2{
+  color: #000000;
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+#category div h2:hover{
+  font-family: syne;
+  font-size: 26px;
+}
+#line10{
+  position: relative;
+  top: 120px;
+  left: 67px;
+}
+#outer{
+  display: flex;
+  position: absolute;
+ top: 150px;
+ left: 300px;
+ width: 1000px;
+overflow: hidden  ;
+}
+
+#container{
+
+  display: flex;
+  flex-direction: column;
+
+ padding: 10px;
+ margin: 10px;
+
+}
+
+#imgdiv{
+width: 310px;
+height: 322px;
+background: linear-gradient(rgba(234, 227, 227, 0.2), rgba(210, 201, 201, 0.2))
+}
+#datadiv{
+  width: 310px;
+  height: 125px;
+}
+#hm{
+  height: 45px;
+  width: 45px;
+  margin-left: 262px;
+  margin-top: -27px;
+}
+.error {
+  color: white; /* Change the color to red or any color you prefer */
+  font-size: 14px; /* Optionally adjust the font size */
+  /* Add other styling properties as needed */
+}
+
+#arrow1 img{
+  position: absolute;
+ left: 1200px;
+  top: 100px;
+}
+#arrow2 img{
+  position: absolute;
+ left: 1300px;
+  top: 100px;
+}
+
+#imgmain{
+  object-fit: contain;
+  width: 300px;
+  height: 300px;
+  
+}
+
+.normalfont{
+  color:#000000;
+  padding: 5px;
+  margin: 5px;
+  white-space: nowrap;
+font-family: syne ;
+font-size: 18px;
+font-weight: 600;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+#p1{
+font-family: Work Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+#p2{
+font-family: Syne;
+font-size: 26px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+
+
+#contactpage{
+  width: 1440px;
+  height: 750px;
+  margin-top: 375px;
+  margin-left: 0px;
+  background-image: url('./assets/d.png');
+  
+}
+
+#news{
+  color: var(--Grey-Scale-200, rgba(255, 255, 255, 0.50));
+
+  /* Subtitles */
+  font-family: Syne;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  padding-top: 82px;
+  padding-left: 100px;
+}
+#extra{
+  color: var(--Grey-Scale-200, rgba(255, 255, 255, 0.50));
+text-align: left;
+
+/* Body text 18 */
+font-family: sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 103px;
+margin-top: 20px;
+}
+#big h1{
+  width: 1159px;
+margin-top:250px ;
+margin-left: 90px;
+  color: var(--Grey-scale-000, #FFF);
+
+/* H1 title */
+font-family: Syne;
+font-size: 135px;
+font-style: normal;
+font-weight: 800;
+line-height: 102.6px; /* 76% */
+}
+
+#form{
+  position: absolute;
+  margin-left: 630px;
+top:1650px;
+
+}
+#form input{
+  background-color: transparent;
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 558px;
+  color: #FFFFFF;
+  padding: 20px;
+  margin-bottom: 10px;
+
+}
+#email{
+  margin-left:39px;
+}
+
+#btn{
+  font-family:sans-serif;
+  border: 1px solid #f07e15;
+  padding: 60px;
+  background-color: transparent;
+  border-radius: 49%;
+  color:#F07E15;
+  margin-left: 520px;
+  margin-top: 90px;
+}
+#jacket{
+  position:absolute;
+  font-family: sans-serif;
+  white-space: nowrap;
+font-size: 14px;
+
+
+
+text-align: left;
+color: #000000;
+left: 1300px;
+top: 600px;
+
+}
+
+#copy{
+  background-color: #000000;
+  height: 66px;
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 57px;
+  padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 850px) {
+  /* Your CSS rules for small screens go here */
+  #mobile{
+    display: none;
+  }
+
+
+}
+
+@media (max-width: 850px) {
+  /* Your CSS rules for small screens go here */
+  #mrindia{
+    display: none;
+  }
+
+
+  /* product page */
+  #product{
+    top: 0px;
+    width: 375px;
+    overflow: hidden;
+  }
+
+  #np2{
+    font-size: 30px;
+    white-space: nowrap;
+    margin-left: 23px;
+    margin-top: 10px;
+  }
+  #line10{
+   left: 9px;
+    top: 80px;
+  }
+
+  #category{
+    display: flex;
+    flex-direction: row;
+   
+ padding: 0;
+ margin-top: 80px;
+  }
+
+  #category div h2{
+    font-family: Work Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+
+  #category div h2:hover{
+    font-family: syne;
+    font-size: 13px;
+  }
+  #outer{
+    width: 375px;
+    left: 5px;
+  }
+
+  #arrow1 img{
+   left: 111px;
+   top: 700px;
+  }
+  #arrow2 img{
+    left: 191px;
+    top: 700px;
+   }
+
+   /* contact page */
+   #contactpage{
+    position: absolute;
+    margin-top: 0px;
+    width: 375px;
+    overflow: hidden;
+   }
+
+   #news h1{
+text-align: center;
+font-family: Syne;
+font-size: 26px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+   }
+   #news{
+text-align: center;
+padding-left: 0px;
+   }
+   #extra{
+    color: var(--Grey-Scale-200, rgba(255, 255, 255, 0.50));
+text-align: center;
+
+/* Body text 18 */
+font-family:sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 0px;
+margin-left: 30px;
+margin-right: 30px;
+   }
+   #big h1{
+    color: #FFF;
+font-family: Syne;
+font-size: 55px;
+font-style: normal;
+font-weight: 800;
+line-height: 67.6%;
+margin-left: 0px;
+width: 350px;
+height: 129;
+margin-left: 10px;
+margin-bottom: 50px;
+margin-top: 350px;
+   }
+   #btn{
+    margin-left: 230px;
+    margin-top: 60px;
+    position: absolute;
+    font-size: 14px;
+    padding: 30px;
+   }
+   #form{
+    margin: 0px;
+    top: 190px;
+    left: 29px;
+
+   }
+   #email{
+    margin-left: 5px;
+   }
+
+   #form input{
+width: 300px;
+
+font-family: sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+padding: 10px;
+
+   }
+
+   #copy {
+    padding-top: 15px;
+    text-align: center;
+   }
+   
+   
+}
